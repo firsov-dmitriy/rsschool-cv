@@ -1,0 +1,22 @@
+# Curriculum vitae
+### Name and second name
+* Dmitriy Firsov 
+### Contact 
+* discord(krakeni#6635) tg(@firsov_d)
+### Information
+* ?
+### Skils
+* JavaScript
+* React
+* TypeScript
+* Git, Npm, Console
+### Code
+* ?
+### Practice
+* Just homemade
+### Education
+* Polytechnic College
+* Udemy - Полный курс по JavaScript + React 
+* Udemy - React + Redux
+### Language
+* A2 - B0
