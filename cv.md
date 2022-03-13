@@ -12,7 +12,17 @@
 * TypeScript
 * Git, Npm, Console
 ### Code
-* Look in GitHub
+```javascript
+function fibonacci(num, list) {
+    if (num === 0 || num === 1) {
+        return num === 0 ? 0 : list[list.length - 1];
+    }
+
+    newList = [...list, list[list.length - 2] + list[list.length - 1]];
+
+    return fibonacci(num - 1, newList);
+}
+```
 ### Practice
 * Just homemade
 ### Education
