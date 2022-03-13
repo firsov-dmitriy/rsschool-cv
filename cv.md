@@ -4,7 +4,8 @@
 ### Contact 
 * discord(krakeni#6635) tg(@firsov_d)
 ### Information
-* ?
+* Get a job position in frontend-junior or high
+* Move to Canada
 ### Skils
 * JavaScript
 * React
