@@ -11,7 +11,7 @@
 * TypeScript
 * Git, Npm, Console
 ### Code
-* ?
+* Look in GitHub
 ### Practice
 * Just homemade
 ### Education
