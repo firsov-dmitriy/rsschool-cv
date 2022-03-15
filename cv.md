@@ -1,17 +1,17 @@
 # Curriculum vitae
-### Name and second name
+## Name and second name
 * Dmitriy Firsov 
-### Contact 
-* discord(krakeni#6635) tg(@firsov_d)
-### Information
-* Get a job position in frontend-junior or high
-* Move to Canada
-### Skils
-* JavaScript
-* React
-* TypeScript
-* Git, Npm, Console
-### Code
+## Contact 
+* <img src="https://img.icons8.com/nolan/32/discord-logo.png"/> (krakeni#6635) 
+* <img src="https://img.icons8.com/nolan/32/telegram-app.png"/> (@firsov_d)
+## Information
+* ?
+## Skils
+* <img src="https://img.icons8.com/external-others-iconmarket/36/000000/external-js-file-types-others-iconmarket-3.png"/>
+* <img src="https://img.icons8.com/ios-glyphs/32/000000/react.png"/>
+* <img src="https://img.icons8.com/windows/32/000000/typescript.png"/>
+* <img src="https://img.icons8.com/windows/32/000000/git.png"/>
+## Code
 ```javascript
 function fibonacci(num, list) {
     if (num === 0 || num === 1) {
@@ -23,11 +23,13 @@ function fibonacci(num, list) {
     return fibonacci(num - 1, newList);
 }
 ```
-### Practice
+## Practice
 * Just homemade
-### Education
+## Education
 * Polytechnic College
 * Udemy - Полный курс по JavaScript + React 
 * Udemy - React + Redux
-### Language
-* A2 - B0
+* https://stepik.org/cert/1050849
+* https://stepik.org/cert/904957
+## Language
+* English <img src="./img/scoreEng.png" style="t"/>
