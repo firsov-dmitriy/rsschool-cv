@@ -1,6 +1,6 @@
-# Curriculum vitae
 
-## Dmitriy Firsov 
+
+# Dmitriy Firsov 
 ## Contact 
 * <img src="https://img.icons8.com/nolan/32/discord-logo.png"/> (krakeni#6635) 
 * <img src="https://img.icons8.com/nolan/32/telegram-app.png"/> (@firsov_d)
