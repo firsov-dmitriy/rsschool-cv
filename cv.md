@@ -8,10 +8,12 @@
 * I am 23 years old. I am currently completing my 4th year at the Polytechnic College. I have been studying front-end technologies and computer science for 2 years now. I also have experience using Python. I see something beautiful in technology and IT. This is one of those areas where you can learn almost forever
 * I get along well with people because I worked as a bartender for a long time. A huge thirst for knowledge and development.
 ## Skils
-* <img src="https://img.icons8.com/external-others-iconmarket/36/000000/external-js-file-types-others-iconmarket-3.png"/> * <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/30/000000/external-html-programming-and-coding-flatart-icons-outline-flatarticons.png"/>
+* <img src="https://img.icons8.com/external-others-iconmarket/36/000000/external-js-file-types-others-iconmarket-3.png"/> 
 * <img src="https://img.icons8.com/ios-glyphs/32/000000/react.png"/>
 * <img src="https://img.icons8.com/windows/32/000000/typescript.png"/>
 * <img src="https://img.icons8.com/windows/32/000000/git.png"/>
+* <img src="https://img.icons8.com/external-bartama-glyph-64-bartama-graphic/30/000000/external-HTML-file-formats-glyph-bartama-glyph-64-bartama-graphic.png"/>
+* <img src="https://img.icons8.com/material-outlined/30/000000/sass.png"/>
 ## Code
 ```javascript
 function fibonacci(num, list) {
