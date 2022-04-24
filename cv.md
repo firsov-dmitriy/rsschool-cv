@@ -24,7 +24,7 @@ function fibonacci(num, list) {
 }
 ```
 ## Practice
-* [scss-project](https://rolling-scopes-school.github.io/firsov-dmitriy-JSFE2022Q1/shelter/pets/index.html)
+* [scss-project](https://rolling-scopes-school.github.io/firsov-dmitriy-JSFE2022Q1/shelter/pages/main/)
 * [react-project](https://rss-react.vercel.app/)
 ## Education
 * Polytechnic College
