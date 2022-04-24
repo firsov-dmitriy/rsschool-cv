@@ -25,8 +25,8 @@ function fibonacci(num, list) {
 }
 ```
 ## Practice
-* (https://rolling-scopes-school.github.io/firsov-dmitriy-JSFE2022Q1/shelter/pets/index.html)
-* (https://rss-react.vercel.app/)
+* [React](https://rolling-scopes-school.github.io/firsov-dmitriy-JSFE2022Q1/shelter/pets/index.html)
+* [Html,SCSS,JS](https://rss-react.vercel.app/)
 ## Education
 * Polytechnic College
 * Udemy - Полный курс по JavaScript + React 
