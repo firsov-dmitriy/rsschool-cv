@@ -2,8 +2,10 @@
 
 # Dmitriy Firsov 
 ## Contact 
-* <img src="https://img.icons8.com/nolan/32/discord-logo.png"/> (krakeni#6635) 
-* <img src="https://img.icons8.com/nolan/32/telegram-app.png"/> (@firsov_d)
+* Phone: +7 996 066 11 03
+* Telegram: @firsov_d
+* GitHub: https://github.com/firsov-dmitriy
+* Email: firsovparitet@gmail.com
 ## Information
 * I am 23 years old. I am currently completing my 4th year at the Polytechnic College. I have been studying front-end technologies and computer science for 2 years now. I also have experience using Python. I see something beautiful in technology and IT. This is one of those areas where you can learn almost forever
 * I get along well with people because I worked as a bartender for a long time. A huge thirst for knowledge and development.
