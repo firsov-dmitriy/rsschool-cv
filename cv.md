@@ -30,7 +30,7 @@ function fibonacci(num, list) {
 }
 ```
 ## Practice
-* [Html,SCSS,JS](https://rolling-scopes-school.github.io/firsov-dmitriy-JSFE2022Q1/shelter/pets/index.html)
+* [Html,SCSS,JS](https://rolling-scopes-school.github.io/firsov-dmitriy-JSFE2022Q1/shelter/main/index.html)
 * [React](https://rss-react.vercel.app/)
 ## Education
 * Polytechnic College
