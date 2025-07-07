@@ -30,15 +30,20 @@ function fibonacci(num, list) {
 }
 ```
 ## Practice
+<<<<<<< HEAD
 * [Html,SCSS,JS](https://rolling-scopes-school.github.io/firsov-dmitriy-JSFE2022Q1/shelter/pets/index.html)
+=======
+* [Html,SCSS,JS](https://rolling-scopes-school.github.io/firsov-dmitriy-JSFE2022Q1/shelter/pages/main/)
+>>>>>>> gh-pages
 * [React](https://rss-react.vercel.app/)
 ## Education
 * Polytechnic College
-* Udemy - Полный курс по JavaScript + React 
+* Udemy - Full course on JavaScript + React 
 * Udemy - React + Redux
 * https://stepik.org/cert/1050849
 * https://stepik.org/cert/904957
 ## Language
-* English 
-
-    <img src="./img/scoreEng.png" />
+* English - B1
+* Russian - native
+* Ukrainian - native
+   
