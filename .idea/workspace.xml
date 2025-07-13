@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7aa261b4-928d-4097-90a4-9b7aeeb33b83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/scoreEng.png" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="7aa261b4-928d-4097-90a4-9b7aeeb33b83" name="Changes" comment="" />
+>>>>>>> gh-pages
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -26,6 +31,14 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+>>>>>>> gh-pages
   <component name="ProjectId" id="2zYNgzJXc4dk6C4PDYyeyWIjjnE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,7 +47,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "Merging rsschool-cv-html",
+=======
+>>>>>>> gh-pages
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,7 +74,10 @@
       <option name="presentableId" value="Default" />
       <updated>1751904161504</updated>
       <workItem from="1751904162569" duration="1262000" />
+<<<<<<< HEAD
       <workItem from="1752415261544" duration="1599000" />
+=======
+>>>>>>> gh-pages
     </task>
     <servers />
   </component>
