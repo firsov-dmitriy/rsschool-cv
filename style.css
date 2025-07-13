@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    background: #AF1B2D;
+    background: #ae5a63;
 }
 
 .main {
@@ -21,6 +21,7 @@ body {
     background-color: #282F39;
     border-top-left-radius: 36px;
     border-bottom-right-radius: 36px;
+    color: white;
 }
 .main section:nth-child(odd) {
     background: white;
@@ -38,6 +39,8 @@ body {
     color: white;
     border-bottom-left-radius: 24px;
     border-bottom-right-radius: 24px;
+    height: 42px;
+    align-items: center;
 }
 
 .header-nav__active {
@@ -60,4 +63,8 @@ body {
 }
 .header-nav__list > li:hover {
     cursor: pointer;
+}
+
+.container-title {
+    font-size: 32px;
 }
